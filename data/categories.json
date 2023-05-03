@@ -1,34 +1,116 @@
 [
-    {
-        "id": "0",
-        "name": "All News"
-    },
-    {
-        "id": "1",
-        "name": "Breaking News"
-    },
-    {
-        "id": "2",
-        "name": "Regular News"
-    },
-    {
-        "id": "3",
-        "name": "International News"
-    },
-    {
-        "id": "4",
-        "name": "Sports"
-    },
-    {
-        "id": "5",
-        "name": "Entertainment"
-    },
-    {
-        "id": "6",
-        "name": "Culture"
-    },
-    {
-        "id": "7",
-        "name": "Arts"
-    }
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/hdW5j1w/author-img-2-100x100.png",
+    "name": "Jany Smith",
+    "years_of_experience": 10,
+    "num_recipes": 50,
+    "likes": 1000,
+    "recipes": [
+      {
+        "Name": "Christmas pie"
+      },
+      {
+        "Name": "Christmas pie 2"
+      },
+      {
+        "Name": "Christmas pie 3"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/7Y1L71c/author-img-3-100x100.png",
+    "name": "Maria Rodriguez",
+    "years_of_experience": 8,
+    "num_recipes": 70,
+    "likes": 1200,
+    "recipes": [
+      {
+        "Name": "Christmas"
+      },
+      {
+        "Name": "Christmas 2"
+      },
+      {
+        "Name": "Christmas2"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/xXSYvx0/author-img-5-100x100.png",
+    "name": "Davi Lea",
+    "years_of_experience": 12,
+    "num_recipes": 40,
+    "likes": 800,
+    "recipes": [
+      {
+        "Name": "1 Christmas"
+      },
+      {
+        "Name": "2 Christmas 2"
+      },
+      {
+        "Name": "3 Christmas2"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/0f0GZp5/author-img-100x100.png",
+    "name": "Linda Nguyen",
+    "years_of_experience": 6,
+    "num_recipes": 60,
+    "likes": 900,
+    "recipes": [
+      {
+        "Name": "7 Christmas"
+      },
+      {
+        "Name": "8 Christmas 2"
+      },
+      {
+        "Name": "9 Christmas2"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/6BkXYcz/irving-valdez.png",
+    "name": "Markus Mueller",
+    "years_of_experience": 15,
+    "num_recipes": 80,
+    "likes": 1500,
+    "recipes": [
+      {
+        "Name": "10 Christmas"
+      },
+      {
+        "Name": "11 Christmas 2"
+      },
+      {
+        "Name": "13 Christmas2"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/t8Bf9YS/Untitled-2-100x100.png",
+    "name": "Stephn Dubois",
+    "years_of_experience": 9,
+    "num_recipes": 55,
+    "likes": 1100,
+    "recipes": [
+      {
+        "Name": "hristmas"
+      },
+      {
+        "Name": "hristmas 2"
+      },
+      {
+        "Name": "hristmas2"
+      }
+    ]
+  }
 ]
